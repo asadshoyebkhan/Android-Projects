@@ -6,7 +6,7 @@ Welcome to the Android Project Community! This is a community-driven project for
 
 To get started with the Android Project Community, follow these steps:
 
-1. Join the community on our [GitHub page](https://github.com/android-project-community).
+1. Join the community on our [GitHub page](https://github.com/asadshoyebkhan/Android-Projects).
 2. Check out the open issues and projects that need help.
 3. Join the discussion on our [Discord server](https://discord.gg/android-project-community) to collaborate with other developers and ask for help.
 
